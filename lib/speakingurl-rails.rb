@@ -1,4 +1,5 @@
 require 'rails'
+require 'sprockets-rails'
 
 module Speakingurl
   module Rails
